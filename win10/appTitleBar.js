@@ -8,7 +8,7 @@
  *
  * @alias Change app title bar color
  * @method changeAppTitleBarColor
- * @param {string} backgroundColor RGB Background color.
+ * @param {string} (backgroundColor={ a: 255, r: 54, g: 60, b: 116 }) RGB Background color.
  * @param {string} foregroundColor RGB foreground color.
  * @param {string} buttonBackgroundColor RGB button background color.
  * @param {string} buttonForegroundColor RGB button foreground color.
